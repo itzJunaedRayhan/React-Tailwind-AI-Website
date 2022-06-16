@@ -23,7 +23,7 @@ module.exports = {
         'ternary': '#052D56',
         'black': '#000000',
         'heaven': '#FFFFFF',
-        'footer': '#2D333F'
+        'footer': '#031B34'
       },
       backgroundImage: {
         'linear-bg': "linear-gradient(to bottom right, #AE67FA, #F49867)"
