@@ -13,7 +13,7 @@ const Blogs = () => {
                         <div className='px-5'>
                             <span className='text-xs font-bold text-heaven'>Sep 26, 2022</span>
                             <h3 className='xs:text-lg lg:text-2xl text-2xl font-bold text-heaven py-5'>GPT-3 and Open  AI is the future. Let us exlore how it is?</h3>
-                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline' href="#">Real Full Article</a>
+                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline hover:text-primary transition-all duration-300' href="#">Real Full Article</a>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ const Blogs = () => {
                         <div className='px-5'>
                             <span className='text-xs font-bold text-heaven'>Sep 26, 2022</span>
                             <h3 className='md:text-sm lg:text-lg text-lg font-bold text-heaven py-5'>GPT-3 and Open  AI is the future. Let us exlore how it is?</h3>
-                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline' href="#">Real Full Article</a>
+                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline hover:text-primary transition-all duration-300' href="#">Real Full Article</a>
                         </div>
                     </div>
                     <div className='xs:w-full xs:mb-6 sm:max-h-[160px] md:max-h-[145px] sm:flex lg:block lg:w-full lg:max-h-[330px] h-[330px] w-[350px] relative bg-[#042C54]'>
@@ -32,7 +32,7 @@ const Blogs = () => {
                         <div className='px-5'>
                             <span className='text-xs font-bold text-heaven'>Sep 26, 2022</span>
                             <h3 className='md:text-sm lg:text-lg text-lg font-bold text-heaven py-5'>GPT-3 and Open  AI is the future. Let us exlore how it is?</h3>
-                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline' href="#">Real Full Article</a>
+                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline hover:text-primary transition-all duration-300' href="#">Real Full Article</a>
                         </div>
                     </div>
                 </div>
@@ -43,7 +43,7 @@ const Blogs = () => {
                         <div className='px-5'>
                             <span className='text-xs font-bold text-heaven'>Sep 26, 2022</span>
                             <h3 className='md:text-sm lg:text-lg text-lg font-bold text-heaven py-5'>GPT-3 and Open  AI is the future. Let us exlore how it is?</h3>
-                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline' href="#">Real Full Article</a>
+                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline hover:text-primary transition-all duration-300' href="#">Real Full Article</a>
                         </div>
                     </div>
                     <div className='xs:w-full sm:max-h-[160px] sm:flex md:max-h-[145px] lg:block lg:max-h-[330px] lg:w-full h-[330px] w-[350px] relative bg-[#042C54]'>
@@ -51,7 +51,7 @@ const Blogs = () => {
                         <div className='px-5'>
                             <span className='text-xs font-bold text-heaven'>Sep 26, 2022</span>
                             <h3 className='md:text-sm lg:text-lg text-lg font-bold text-heaven py-5'>GPT-3 and Open  AI is the future. Let us exlore how it is?</h3>
-                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline' href="#">Real Full Article</a>
+                            <a className='absolute bottom-4 text-heaven text-xs font-semibold underline hover:text-primary transition-all duration-300' href="#">Real Full Article</a>
                         </div>
                     </div>
                 </div>

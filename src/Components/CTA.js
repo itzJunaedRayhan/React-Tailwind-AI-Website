@@ -7,7 +7,7 @@ const CTA = () => {
                 <span className='text-xs text-[#0E0E0E]'>Request Early Access to Get Started</span>
                 <h3 className='xs:text-sm xs:py-2 sm:text-xl md:text-2xl xl:text-3xl font-bold text-black'>Register today & start exploring the endless possiblities.</h3>
             </div>
-            <button className='mx-6 bg-black rounded-full px-4 py-2 text-heaven whitespace-nowrap'>Get Started</button>
+            <button className='mx-6 bg-black rounded-full px-4 py-2 text-heaven whitespace-nowrap  hover:bg-primary transition-all duration-300'>Get Started</button>
         </div>
     );
 };
