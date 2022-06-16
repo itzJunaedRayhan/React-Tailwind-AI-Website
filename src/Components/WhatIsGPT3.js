@@ -18,15 +18,15 @@ const WhatIsGPT3 = () => {
             </div>
 
             <div className='xs:grid-cols-1 xs:px-2 xs:gap-1 md:grid-cols-3 md:gap-4 md:px-3 lg:px-6 lg:gap-4 xl:px-8 px-8 grid grid-cols-3 gap-4'>
-                <div>
+                <div className='my-5'>
                     <h2 className="xs:pb-4 xs:text-xl lg:pb-6 lg:text-2xl xl:pb-8 relative text-heaven font-bold text-2xl pb-8 before:absolute before:content-[''] before:w-12 before:h-1 before:-top-2 before:rounded-sm before:bg-[#AE67FA]">Chatbots</h2>
                     <p className='xs:text-sm lg:text-[16px] text-[#81AFDD] leading-6 font-medium text-[16px]'>We so opinion friends me message as delight. Whole front do of plate heard oh ought. </p>
                 </div>
-                <div>
+                <div className='my-5'>
                     <h2 className="xs:pb-4 xs:text-xl lg:pb-6 lg:text-2xl xl:pb-8 relative text-heaven font-bold text-2xl pb-8 before:absolute before:content-[''] before:w-12 before:h-1 before:-top-2 before:rounded-sm before:bg-[#AE67FA]">Knowledgebase</h2>
                     <p className='xs:text-sm lg:text-[16px] text-[#81AFDD] leading-6 font-medium text-[16px]'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b</p>
                 </div>
-                <div>
+                <div className='my-5'>
                     <h2 className="xs:pb-4 xs:text-xl lg:pb-6 lg:text-2xl xl:pb-8 relative text-heaven font-bold text-2xl pb-8 before:absolute before:content-[''] before:w-12 before:h-1 before:-top-2 before:rounded-sm before:bg-[#AE67FA]">Education</h2>
                     <p className='xs:text-sm lg:text-[16px] text-[#81AFDD] leading-6 font-medium text-[16px]'>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b</p>
                 </div>

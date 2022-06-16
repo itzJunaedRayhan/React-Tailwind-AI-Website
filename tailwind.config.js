@@ -24,6 +24,9 @@ module.exports = {
         'black': '#000000',
         'heaven': '#FFFFFF',
         'footer': '#2D333F'
+      },
+      backgroundImage: {
+        'linear-bg': "linear-gradient(to bottom right, #AE67FA, #F49867)"
       }
     },
   },
